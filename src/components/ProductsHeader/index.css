@@ -4,8 +4,12 @@
   margin-left: 30px;
 }
 .sort-by-select {
-  width: 200px;
+  width: 300px;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
   color: #000;
+  margin-bottom: 20px;
 }
 .select-option {
   color: #000;

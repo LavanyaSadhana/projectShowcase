@@ -1,21 +1,28 @@
 .project-showcase-container {
   display: flex;
   flex-direction: column;
+  max-width: 1100px;
+  justify-content: center;
 }
 .nav-container {
   display: flex;
   justify-content: flex-start;
+  align-items: flex-start;
 }
 .logo {
   width: 180px;
   height: 80px;
+  align-items: center;
 }
 .loader-container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .list-container {
   display: flex;
   flex-wrap: wrap;
+  width: 1000px;
+  align-items: center;
 }
