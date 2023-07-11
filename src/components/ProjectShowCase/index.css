@@ -1,0 +1,21 @@
+.project-showcase-container {
+  display: flex;
+  flex-direction: column;
+}
+.nav-container {
+  display: flex;
+  justify-content: flex-start;
+}
+.logo {
+  width: 180px;
+  height: 80px;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+}

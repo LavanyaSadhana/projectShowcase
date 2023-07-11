@@ -1,0 +1,12 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+}
+.sort-by-select {
+  width: 200px;
+  color: #000;
+}
+.select-option {
+  color: #000;
+}
